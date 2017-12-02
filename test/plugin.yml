@@ -1,0 +1,5 @@
+#Note, this has to go outside of the JavaPlugin!
+name: ConfigTest
+author: tokyojack
+version: 1.0
+main: package.way.to.javaplugin.Test
