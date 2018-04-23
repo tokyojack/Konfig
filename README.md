@@ -1,5 +1,5 @@
 <h2  align="center">Konfig</h2>
-<p  align="center">A utility to help people create configs for Bukkit</p>
+<p  align="center">A Bukkit utility for creating configs</p>
 
 <br/>
 
